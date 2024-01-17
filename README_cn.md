@@ -106,7 +106,7 @@ babaohuang/geminiprochat:latest
 3. 运行应用程序，项目会在 `http://localhost:3000/` 上运行。
 
    ```bash
-    pnpm run dev
+    pnpm run dev --host
    ```
 
 ## 鸣谢
